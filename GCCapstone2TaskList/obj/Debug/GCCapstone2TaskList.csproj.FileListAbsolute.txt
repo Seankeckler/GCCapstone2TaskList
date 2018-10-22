@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\bin\Debug\GCCapstone2TaskList.exe.config
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\bin\Debug\GCCapstone2TaskList.exe
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\bin\Debug\GCCapstone2TaskList.pdb
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\obj\Debug\GCCapstone2TaskList.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\obj\Debug\GCCapstone2TaskList.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\obj\Debug\GCCapstone2TaskList.exe
+C:\Users\seank\source\repos\GCCapstone2TaskList\GCCapstone2TaskList\obj\Debug\GCCapstone2TaskList.pdb
